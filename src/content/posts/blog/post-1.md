@@ -8,7 +8,7 @@ category: crypto
 draft: false
 ---
 
-# 密码学笔记：RSA 与常见攻击手法
+# 密码学笔记
 
 ## 1. RSA 加密
 
