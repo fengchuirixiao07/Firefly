@@ -40,7 +40,7 @@ line1
 line2
 line3
 ```
-#4.布尔值:
+# 4.布尔值:
 ##布尔值只分为True和False
 ```python
 3>2 #为True
