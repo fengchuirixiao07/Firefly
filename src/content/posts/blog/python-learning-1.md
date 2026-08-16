@@ -2,10 +2,11 @@
 title: Python学习笔记-1
 published: 2026-08-07
 author: fengchuirixiao
+description: Python学习笔记-1
 tags: [Python]
 category: Python
-draft: false
 weight: 2
+draft: false
 ---
 # 1.整数：
 十进制数字直接写，十六进制就在前面加0x就可以了
