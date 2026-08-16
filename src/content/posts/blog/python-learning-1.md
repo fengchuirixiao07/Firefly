@@ -46,7 +46,7 @@ line3
 3>2 #为True
 3>5 #为False
 ```
-## 4.1.布尔值可以用`and`,`or`和`not`来进行运算
+## 4.1布尔值可以用`and`,`or`和`not`来进行运算
 用`and`的情况，只有全为True才是True，有一个False则为False
 用`or`的情况,只要一个为True，则就为Ture
 用`not`的情况，就是把True变成False，把False变成Ture，如：
@@ -106,7 +106,7 @@ PI = 3.14159265359
 import numpy as np
 print(np.pi)  # 输出: 3.141592653589793
 ```
-## 7.1.Python中的两种除法
+## 7.1Python中的两种除法
 >1.第一种除法是`/`：
 >>`/`除出来的是浮点数，哪怕是整除，结果也是浮点数
 ```python
