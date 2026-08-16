@@ -1,10 +1,11 @@
 ---
 title: Python学习笔记-2
-published: 2026-08-08
+published: 2026-08-07
 author: fengchuirixiao
 tags: [Python]
 category: Python
 draft: false
+weight: 1
 ---
 # 1.Python的字符串
 在Python中，字符是用Unicode来进行编码的，这意味着字符串里面可以显示多种语言
