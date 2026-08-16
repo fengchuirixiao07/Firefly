@@ -43,12 +43,12 @@ line2
 line3
 ```
 # 4.布尔值:
-##布尔值只分为True和False
+## 4.1布尔值只分为True和False
 ```python
 3>2 #为True
 3>5 #为False
 ```
-## 4.1布尔值可以用`and`,`or`和`not`来进行运算
+## 4.2布尔值可以用`and`,`or`和`not`来进行运算
 用`and`的情况，只有全为True才是True，有一个False则为False
 用`or`的情况,只要一个为True，则就为Ture
 用`not`的情况，就是把True变成False，把False变成Ture，如：
