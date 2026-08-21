@@ -1,8 +1,8 @@
 ---
-title: Python学习笔记-2
+title: Python学习笔记-字符串和编码
 published: 2026-08-08
 author: fengchuirixiao
-description: Python学习笔记-2
+description: Python学习笔记-字符串和编码
 tags: [Python]
 category: Python
 draft: false
@@ -14,7 +14,7 @@ draft: false
 a=ord('A') #输出的是65
 b=chr(65) #输出的是A
 ```
-Python的字符串类型是str，在内存中以Unicode表示，一个字符对应若干个字节。如果要在网络上传输，或者保存到磁盘上，就需要把str变为以字节为单位的bytes
+>Python的字符串类型是str，在内存中以Unicode表示，一个字符对应若干个字节。如果要在网络上传输，或者保存到磁盘上，就需要把str变为以字节为单位的bytes
 Python对bytes类型的数据用带b前缀的单引号或双引号表示：
 ```python
 x=b'abc'
@@ -147,6 +147,7 @@ s2 = 85
 r = ???
 print('???')
 ```
+---
 ```python
 s1 = 72
 s2 = 85
@@ -154,7 +155,7 @@ r=((s2-s1)/s1)*100
 name='小明'
 print(f'{name}的成绩提升了{r:.1f}%')
 ```
-输出的结果为
+输出的结果为:
 ```python
 小明的成绩提升了18.1%
 ```
