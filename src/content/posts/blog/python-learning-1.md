@@ -4,6 +4,7 @@ published: 2026-08-08
 author: fengchuirixiao
 description: Python学习笔记-数据类型和变量
 tags: [Python]
+image: ../images/9a27222976521553d2763c46fbceba6d.jpg"
 category: Python
 weight: 2
 draft: false
