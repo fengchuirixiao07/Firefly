@@ -8,7 +8,7 @@ category: Python
 draft: false
 ---
 # 1.使用dict和set
-# 1.1dict
+## 1.1dict
 python里面内置了字典的功能，不是`linux`中那种查功能，`dict`，全称为`dictionary`，在其他语言中被称为`map`，使用键-值（key-value）存储，具有极快的查找速度。
 假如我要查下列学校的建校年份，用`list`来实现就需要两个`list`，第一个`list`里面装学校，第二个`list`里面装对应的建校年份
 ```python
@@ -92,7 +92,7 @@ Traceback (most recent call last):
       ^^^^^^^^
 TypeError: unhashable type: 'list'
 ```
-# 1.2set
+## 1.2set
 `set`和`dict`也比较类似，`set`中存储的也是`key`，并且也是不可变的
 创建一个`set`:
 ```python
