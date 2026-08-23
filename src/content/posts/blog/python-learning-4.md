@@ -3,6 +3,7 @@ title: Python学习笔记-条件判断
 published: 2026-08-17
 author: fengchuirixiao
 description: Python学习笔记-条件判断
+images: ../images/3d15eb3d008daeb6d0f6b5d095280837.jpg
 tags: [Python]
 category: Python
 draft: false
