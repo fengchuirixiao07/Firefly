@@ -3,7 +3,7 @@ title: Python学习笔记-list和tuple
 published: 2026-08-16
 author: fengchuirixiao
 description: Python学习笔记-list和tuple
-image: ../images/af3c0d2c61c5d23648f295b5848985ce.jpg
+image: ../images/fe47e21e516e277f98e30056be3036be.jpg
 tags: [Python]
 category: Python
 draft: false
