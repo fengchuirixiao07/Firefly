@@ -3,7 +3,7 @@ title: Python学习笔记-字符串和编码
 published: 2026-08-08
 author: fengchuirixiao
 description: Python学习笔记-字符串和编码
-images: ../images/05776a82ec2c3361cfff09ec1f930990.jpg
+image: ../images/05776a82ec2c3361cfff09ec1f930990.jpg
 tags: [Python]
 category: Python
 draft: false
