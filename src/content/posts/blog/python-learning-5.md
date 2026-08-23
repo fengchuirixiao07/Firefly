@@ -3,6 +3,7 @@ title: Python学习笔记-模式匹配
 published: 2026-08-17
 author: fengchuirixiao
 description: Python学习笔记-模式匹配
+image: ../images/f013cb70693b7671f528697ddd4313b9.jpg
 tags: [Python]
 category: Python
 draft: false

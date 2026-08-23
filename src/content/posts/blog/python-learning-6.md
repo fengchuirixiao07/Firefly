@@ -3,6 +3,7 @@ title: Python学习笔记-循环
 published: 2026-08-20
 author: fengchuirixiao
 description: Python学习笔记-循环
+image: ../images/48e3b7d0528cc00afd361f4eec4fae7b.jpg
 tags: [Python]
 category: Python
 draft: false
