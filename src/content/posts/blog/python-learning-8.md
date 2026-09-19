@@ -1,6 +1,6 @@
 ---
 title: Python学习笔记-调用函数
-published: 2026-09-2
+published: 2026-08-31
 author: fengchuirixiao
 description: Python学习笔记-调用函数
 tags: [Python]
